@@ -1,33 +1,33 @@
-created By @H4CK_iL
+# created By @H4CK_iL                                                                
 
-In order to run the script properly, specific modules must be installed.
 
-Please install:
+> [!NOTE]
+> if there is a 'NameError:' please note that all of the methods are installed.
 
-pip install rarfile
-pip install zipfile
+> [!TIP]
+> In order to run the script properly, specific modules must be installed.
 
-and if there is a 'NameError:' please not that all of the methods are installed
+##
+		pip install rarfile
+##
+		pip install zipfile
 
-all methods that im use already imported in the script and no need to reimpoet them!
+> [!CAUTION]
+> for use a password need first add a password list to the PassWord.txt file!
 
-import rarfile
-import os
-import zipfile
-import threading
-import time
+> [!IMPORTANT]
+> Common passwords can be used from the links below
 
-[!] for use a password need first add a password list to the PassWord.txt file!
+1. TOP Commons passwords - Credit to [danielmiessler](https://github.com/danielmiessler).
+     - [TOP 100 PASSWORDS](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt)
+    
+     - [TOP 1000 PASSWORDS](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000.txt)
+    
+     - [TOP 10000 PASSWORDS](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt)
+    
+     - [TOP 100000 PASSWORDS](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt)
+    
+     - [TOP 1000000 PASSWORDS](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)
 
-you can find a lists here:
 
-https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
-
-for sortcut:
-
-top 100 - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100.txt
-top 1K - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000.txt
-top 10K - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-10000.txt
-top 100K - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt
-top 1M - https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.icons8.com/?size=48&id=63306&format=png)   [Contact us on Telegram](https://t.me/H4CK_iL)

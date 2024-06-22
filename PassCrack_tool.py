@@ -31,7 +31,7 @@ time.sleep(2)
 print('Loading...')
 
 time.sleep(1)
-clear = "\n" * 13
+clear = "\n" * 15
 print(clear)
 
 print('Add Password Path> ')
